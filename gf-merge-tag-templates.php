@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * Plugin Name:       Gravity Forms: Merge Tag Templates
  * Plugin URI:
